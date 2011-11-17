@@ -1,0 +1,43 @@
+Lesson 1
+--------
+
+Starting perl
+
+print
+
+quotes (double, single)
+
+newline
+
+Typing in a program from the command line
+
+Editing a program file
+
+prog1.pl - hello world
+
+variables
+
+prog2.pl - print 1 .. 5, each on own line
+
+prog2a.pl - use a variable and increment
+
+Show ways of using +=, ++ (pre and post)
+
+loops, logical operators (perldoc perlop)
+
+prog2b.pl - while loop
+prog2c.pl - for loop
+prog2d.pl - do .. until loop
+prog2e.pl - postfix for loop
+
+input - <>, chomp
+
+prog3.pl - input min and max number, and print every number between, inclusive.
+
+if / elsif / else
+
+prog4.pl - number guesser - computer picks, user guesses - too low, too high, just right
+
+goto / last / next / redo
+
+testing / prove
